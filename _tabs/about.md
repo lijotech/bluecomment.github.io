@@ -14,3 +14,28 @@ Let us connect in [LinkedIn](https://www.linkedin.com/in/lijotech)
 
 Write to us :<info@bluecomment.com>
 
+## My Certifications [#](#my-certifications)
+
+<table>
+<tr>
+<td colspan="3" style="text-align:center;">
+<a href="https://scaledagile.com/training/leading-safe/"><img src="/assets/img/author/SAFe Agilist-6.png" height="200" width="200" ></a>
+</td>
+</tr>
+<tr>
+<td> 
+<a href="https://learn.microsoft.com/en-us/certifications/azure-solutions-architect"><img src="/assets/img/author/microsoft-certified-expert-badge.svg" width="100%" ></a>
+</td>
+<td>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-administrator/"><img src="/assets/img/author/microsoft-certified-associate-badge.svg" width="100%" ></a>
+</td>
+<td>
+<a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/"><img src="/assets/img/author/microsoft-certified-fundamentals-badge.svg" width="100%" ></a>
+</td>
+</tr>
+</table>
+
+
+
+
+
