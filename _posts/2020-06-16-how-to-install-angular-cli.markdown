@@ -20,7 +20,7 @@ To install Angular CLI, you’ll need [Node.js](https://nodejs.org/en/download/)
 - Open a command prompt or terminal.
 - Type the following command to check if Node.js is installed:
 
-`node -v`
+    `node -v`
 
 - This should display the installed version of Node.js.
 
@@ -28,14 +28,14 @@ To install Angular CLI, you’ll need [Node.js](https://nodejs.org/en/download/)
 - After installing Node.js, open a command prompt or terminal.
 - Run the following command to install Angular CLI globally:
 
-`npm install -g @angular/cli`
+    `npm install -g @angular/cli`
 
 - The `-g` flag specifies global installation.
 
 ## 4. Verify Angular CLI Installation
 - To check if Angular CLI is successfully installed, type:
 
-`ng --version`
+    `ng --version`
 
 That's it! You're now ready to create and work with Angular projects using Angular CLI. 😊
 
