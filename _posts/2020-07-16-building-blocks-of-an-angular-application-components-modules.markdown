@@ -116,9 +116,17 @@ export class BooksComponent implements OnInit {
 
 Below is the code inside **books.component.html**
 
-The syntax used in the below html is called **String Interpolation**.
 
-```html <p>Books Works!</p> <p> {{message}} </p> ```
+<p id="string-interpolation" >The syntax used in the below html is called <a href="#string-interpolation" class="anchor text-muted">String Interpolation</a></p>
+
+{% raw %}
+```html
+<p>Books Works!</p>
+<p>
+    {{message}}
+</p>
+```
+{% endraw %}
 
 To run the full application enter the below command in the terminal.
 
