@@ -22,8 +22,8 @@ I am talking about the latest version of blogengine as per writing this article 
     ![](/assets/img/posts/2020/08/sn3.png)  
       
     
-5.  Now you will be able to view the site at [http://www.yourdomain.com](http://www.yourdomain.com).  
-    Type [http://www.yourdomain.com/admin](http://www.yourdomain.com/admin) to login to the admin panel
+5.  Now you will be able to view the site at [www.yourdomain.com](www.yourdomain.com).  
+    Type [www.yourdomain.com/admin](www.yourdomain.com/admin) to login to the admin panel
 
     ![](/assets/img/posts/2020/08/sn4.png)
 

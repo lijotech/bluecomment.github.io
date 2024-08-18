@@ -12,7 +12,7 @@ permalink: /post/How-to-Configure-Email-setting-in-Blogengine-admin-for-gmail
 
 Below I will explain how to configure the Email setting for your blogengine website when you host in the GoDaddy server.
 
-First, log in to Admin side using URL:http://www.yourdomain.com/admin
+First, log in to Admin side using URL:www.yourdomain.com/admin
 
 In the left side, menu navigate to SETTINGS > E-mail
 

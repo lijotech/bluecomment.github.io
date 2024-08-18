@@ -26,7 +26,7 @@ There are two ways you can add custom fields.
 To add a custom field for a Profile User we have to enable the multiuser option in the web.config file. In web.config file go to appsettings in the XML tag and change the default value of _BlogEngine.UsageScenerio_ from _singleblog_ to _multiusers_. The three usage scenarios are also commented just above the key field setting.
 
 ![](/assets/img/posts/2020/08/blogengine-usagescenerio.png)  
-After saving the web.config file, login to the admin panel by navigating to `http://www.yourdomain.com/admin`. Go to the profile section under the menu Users.  
+After saving the web.config file, login to the admin panel by navigating to `www.yourdomain.com/admin`. Go to the profile section under the menu Users.  
 ![](/assets/img/posts/2020/08/blogengine-userprofile.jpg)
 
 Now Click the Custom Field add button, a popup opens and there we can enter a unique key and value. The value can be a string or HTML. What the custom fields do is, when we use this key in some places of the page the value in the Value field will be shown.
