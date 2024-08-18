@@ -55,7 +55,7 @@ Some of the variations of the property binding are:
 
 **String Interpolation**
 
-In string interpolation, the property or field in the component is bind in a special syntax called string interpolation syntax with two curly brackets {{}}.  
+In string interpolation, the property or field in the component is bind in a special syntax called string interpolation syntax with two curly brackets {% raw %} {{}} {% endraw %}.  
 An example of the same is provided in this [article](/post/building-blocks-of-an-angular-application-components-modules#string-interpolation "string interpolation").
 
 **Attribute Binding**
